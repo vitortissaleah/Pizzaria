@@ -1,7 +1,7 @@
 # Pizzaria
 ## _Programa Pizzaria_
 
-[![N|Solid](https://www.creativefabrica.com/wp-content/uploads/2022/04/17/Pizza-Logo-Design-Graphics-29132095-1.jpg)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://static.vecteezy.com/ti/vetor-gratis/t2/7944092-pizza-logo-design-modelo-ilustracaoial-gratis-vetor.jpg)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
